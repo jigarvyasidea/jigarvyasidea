@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigar Vyas</h1>
 <h3 align="center">A passionate to motivating and helping student.</h3>
 
-- 🔭 I’m currently working on [Bloggingos](https://bloggingos.com)
+- 
 
-- 🌱 I’m currently learning **DSA , nodejs**
+- 🌱 I’m currently learning **DSA , React Native**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **jigarvyasidea@gmail.com**
 
