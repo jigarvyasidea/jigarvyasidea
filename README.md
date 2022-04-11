@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jigar Vyas</h1>
 <h3 align="center">A passionate to motivating and helping student.</h3>
 
-- 
 
 - 🌱 I’m currently learning **DSA , React Native**
 
