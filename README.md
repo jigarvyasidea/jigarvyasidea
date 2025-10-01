@@ -41,14 +41,39 @@
 
 ### ⚡ Tech Stack & Tools
 #### 🔹 AI / LLMs / Agent Frameworks
+
 <p>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://github.com/langgraph-ai/langgraph" target="_blank"><img src="https://avatars.githubusercontent.com/u/163393752?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/167870956?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://github.com/microsoft/autogen" target="_blank"><img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://www.lyzr.ai/" target="_blank"><img src="https://docs.crewai.com/images/crew_only_logo.png" width="40" height="40"/></a>
-  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/130722219?s=200&v=4" width="40" height="40"/></a>
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain-icon.svg" width="40" height="40" alt="LangChain"/>
+  </a>
+
+  <!-- LangGraph -->
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/logo.png" width="40" height="40" alt="LangGraph"/>
+  </a>
+
+  <!-- CrewAI -->
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/assets/logo.png" width="40" height="40" alt="CrewAI"/>
+  </a>
+
+  <!-- AutoGen -->
+  <a href="https://github.com/microsoft/autogen" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/autogen/main/imgs/autogen_logo.png" width="40" height="40" alt="AutoGen"/>
+  </a>
+
+  <!-- Lyzr AI -->
+  <a href="https://www.lyzr.ai/" target="_blank">
+    <img src="https://www.lyzr.ai/assets/logo.svg" width="40" height="40" alt="Lyzr AI"/>
+  </a>
+
+  <!-- LlamaIndex -->
+  <a href="https://www.llamaindex.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" width="40" height="40" alt="LlamaIndex"/>
+  </a>
 </p>
+
 
 #### 🔹 Core Languages & Libraries
 <p>
