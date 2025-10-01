@@ -88,14 +88,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jigarvyas&show_icons=true&theme=radical" alt="jigarvyas stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jigarvyas&theme=radical" alt="streak stats" />
-</p>
-
----
-
 ✨ _“AI Agents + Community + Curiosity = The Future I’m Building”_ ✨
