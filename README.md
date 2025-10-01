@@ -46,7 +46,7 @@
   <a href="https://github.com/langgraph-ai/langgraph" target="_blank"><img src="https://avatars.githubusercontent.com/u/163393752?s=200&v=4" width="40" height="40"/></a>
   <a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/167870956?s=200&v=4" width="40" height="40"/></a>
   <a href="https://github.com/microsoft/autogen" target="_blank"><img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://www.lyzr.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/144887947?s=200&v=4" width="40" height="40"/></a>
+  <a href="https://www.lyzr.ai/" target="_blank"><img src="https://docs.crewai.com/images/crew_only_logo.png" width="40" height="40"/></a>
   <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/130722219?s=200&v=4" width="40" height="40"/></a>
 </p>
 
