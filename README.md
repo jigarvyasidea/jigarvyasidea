@@ -41,38 +41,32 @@
 
 ### ⚡ Tech Stack & Tools
 #### 🔹 AI / LLMs / Agent Frameworks
-
 <p>
-  <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain-icon.svg" width="40" height="40" alt="LangChain"/>
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="40" height="40" alt="LangChain"/>
   </a>
-
-  <!-- LangGraph -->
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/logo.png" width="40" height="40" alt="LangGraph"/>
+  
+  <a href="https://github.com/langgraph-ai/langgraph" target="_blank">
+    <img src="https://raw.githubusercontent.com/langgraph-ai/langgraph/main/docs/static/logo.png" width="40" height="40" alt="LangGraph"/>
   </a>
-
-  <!-- CrewAI -->
+  
   <a href="https://www.crewai.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/assets/logo.png" width="40" height="40" alt="CrewAI"/>
+    <img src="https://www.crewai.com/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75" width="40" height="40" alt="CrewAI"/>
   </a>
-
-  <!-- AutoGen -->
+  
   <a href="https://github.com/microsoft/autogen" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/autogen/main/imgs/autogen_logo.png" width="40" height="40" alt="AutoGen"/>
+    <img src="https://github.com/microsoft/autogen/raw/main/assets/autogen.png" width="40" height="40" alt="Autogen"/>
   </a>
-
-  <!-- Lyzr AI -->
+  
   <a href="https://www.lyzr.ai/" target="_blank">
-    <img src="https://www.lyzr.ai/assets/logo.svg" width="40" height="40" alt="Lyzr AI"/>
+    <img src="https://www.lyzr.ai/icons/icon-512x512.png" width="40" height="40" alt="Lyzr AI"/>
   </a>
-
-  <!-- LlamaIndex -->
+  
   <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" width="40" height="40" alt="LlamaIndex"/>
+    <img src="https://www.llamaindex.ai/_next/image?url=%2Flogos%2Fllama.png&w=128&q=75" width="40" height="40" alt="LlamaIndex"/>
   </a>
 </p>
+
 
 
 #### 🔹 Core Languages & Libraries
